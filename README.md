@@ -11,3 +11,8 @@ I implemented many of the basic graph search algorithms including breadth first 
 As a project extension, I modified the A star search algorithm to utilize previously computed shortest paths. As a result, directions form any single start node to an end node in a graph is only computed once. In the process of computing the shortest path the first time, all of the shortest paths from a node along the path to the end node are stored.
 
 I attempt to clearly distinguish between the code I authored and the code authored by UCSD.
+
+A majority of the code I wrote can be found in the following files:
+\roadgraph\MapGraph.java, 
+\roadgraph\MapEdge.java
+\roadgraph\MapNode.java
