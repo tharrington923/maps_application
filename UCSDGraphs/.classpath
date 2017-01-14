@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libs/javax.json-1.0.4.jar">
+		<accessrules>
+			<accessrule kind="accessible" pattern="Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/**  jre/lib/ext/jfxrt.jar"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
