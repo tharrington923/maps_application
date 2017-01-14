@@ -13,6 +13,9 @@ As a project extension, I modified the A star search algorithm to utilize previo
 I attempt to clearly distinguish between the code I authored and the code authored by UCSD.
 
 A majority of the code I wrote can be found in the following files:
-\roadgraph\MapGraph.java, 
-\roadgraph\MapEdge.java
-\roadgraph\MapNode.java
+
+src\roadgraph\MapGraph.java
+
+src\roadgraph\MapEdge.java
+
+src\roadgraph\MapNode.java
